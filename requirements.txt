@@ -1,0 +1,25 @@
+# Unified Quantum Verification Framework
+# Requirements
+
+# Core dependencies
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Optional: for extended functionality
+# qiskit>=0.45.0          # For circuit simulation comparison
+# cirq>=1.2.0             # Alternative circuit library
+# pennylane>=0.32.0       # Quantum ML integration
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
+
+# Documentation
+# sphinx>=4.0.0
+# sphinx-rtd-theme>=1.0.0
+
+# Development
+# black>=22.0.0
+# flake8>=4.0.0
+# mypy>=0.990
