@@ -2,7 +2,6 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2503.14506-b31b1b.svg)](https://arxiv.org/abs/2503.14506)
 
 **A Python implementation for fault-tolerant verification of quantum random sampling, bridging k-uniform states and measurement-based quantum computation.**
 
